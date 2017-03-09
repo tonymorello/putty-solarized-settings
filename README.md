@@ -5,3 +5,6 @@ Loading these settings you get All the solarized (dark) colors for PuTTY set usi
 
 I hope you enjoy it.
 
+![Screen Shot 1](screenshot1.jpg "Yep... That's a fake IP and host")
+
+![Screen Shot 2](screenshot2.jpg "Yep... That's also a fake IP")
