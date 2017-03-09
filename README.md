@@ -11,7 +11,7 @@ I hope you enjoy it.
 
 ## Installation
 
-1. Download `putty-default-solarized-dark.reg
+1. Download `putty-default-solarized-dark.reg`
 2. Double-click it
 3. Click OK...
 4. ...
